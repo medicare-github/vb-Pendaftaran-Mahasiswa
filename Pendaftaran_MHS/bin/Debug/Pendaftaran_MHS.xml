@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pendaftaran_MHS
+</name>
+</assembly>
+<members>
+<member name="P:Pendaftaran_MHS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources._1485476036_artboard_1_78544">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.checklist_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.digital_Mahasiswa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.document_edit_flat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.google_forms_new_logo_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.medii_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.scholarship_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.stmik">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pendaftaran_MHS.My.Resources.Resources.user_male_circle_filled">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Pendaftaran_MHS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
